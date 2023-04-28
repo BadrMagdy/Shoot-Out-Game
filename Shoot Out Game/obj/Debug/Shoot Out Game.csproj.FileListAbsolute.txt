@@ -1,0 +1,11 @@
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\bin\Debug\Shoot Out Game.exe.config
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\bin\Debug\Shoot Out Game.exe
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\bin\Debug\Shoot Out Game.pdb
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csproj.AssemblyReference.cache
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csproj.SuggestedBindingRedirects.cache
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot_Out_Game.Form1.resources
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot_Out_Game.Properties.Resources.resources
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csproj.GenerateResource.cache
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.csproj.CoreCompileInputs.cache
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.exe
+D:\Badr Coding\C#\Gaming\Shoot Out Game\Shoot Out Game\obj\Debug\Shoot Out Game.pdb
